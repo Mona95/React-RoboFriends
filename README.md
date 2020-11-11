@@ -1,6 +1,8 @@
-# robo-friends(React)
-<ls>
-  <li>Clone this repo.</li>
-	<li>Run <code>npm install</code>.</li>
-	<li>Run <code>npm start</code>.</li>
-</ls>
+# Robo-friends Cards
+
+Demo : https://zen-perlman-06207f.netlify.app/
+
+- Generating Robot-Cards 
+- Implementing a Search component in order to filter the cards with high performance
+
+![robo-img](./robo-app.png)
